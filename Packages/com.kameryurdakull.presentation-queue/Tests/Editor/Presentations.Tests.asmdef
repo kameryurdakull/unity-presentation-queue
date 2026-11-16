@@ -1,0 +1,9 @@
+{
+  "name": "Presentations.Tests",
+  "rootNamespace": "Presentations.Tests",
+  "references": ["Presentations", "UniTask", "VContainer"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "includePlatforms": ["Editor"],
+  "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+  "autoReferenced": false
+}

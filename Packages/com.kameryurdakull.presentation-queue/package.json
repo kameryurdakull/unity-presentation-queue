@@ -1,0 +1,17 @@
+{
+  "name": "com.kameryurdakull.presentation-queue",
+  "version": "1.0.0",
+  "displayName": "Presentation Queue",
+  "description": "Plays on-screen shows one after another with UniTask: priorities, same-frame ordering, idle waiting and VContainer registration.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Kamer Yurdakull"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Usage",
+      "description": "Register the queue with VContainer, enqueue two shows and wait for the screen to clear.",
+      "path": "Samples~/BasicUsage"
+    }
+  ]
+}
